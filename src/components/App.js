@@ -1,8 +1,15 @@
 import React from 'react';
-import { Text } from 'react-native';
+import { View } from 'react-native';
+import List from '../containers/List';
+import StatusBar from './StatusBar';
 
 const App = () => {
-  return <Text>dale!</Text>;
+  return (
+    <View>
+      <StatusBar />
+      <List />
+    </View>
+  );
 };
 
 export default App;
