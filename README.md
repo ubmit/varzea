@@ -1,5 +1,5 @@
 # varzea
-a React Native application being served by a Rails API: a prototype for a mobile game that I am going to start developing soon along with a team.
+A React Native application being served by a Rails API: a prototype for a mobile game that I am going to start developing soon along with a team.
 
 ## Instructions
 
